@@ -1,0 +1,7 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "About Me"
+    url: /
+  - title: "Github"
+    url: /
