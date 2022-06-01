@@ -32,10 +32,11 @@ github_username:  Apoorvgarg-creator
 
 # Build settings
 theme: minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-include-cache
 
 
 logo: "/assets/images/logo.png"
