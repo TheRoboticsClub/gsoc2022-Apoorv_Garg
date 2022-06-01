@@ -1,7 +1,25 @@
 main:
   - title: "Home"
     url: /
+  - title: Progress
+    url: /progress
   - title: "About Me"
-    url: /
+    url: /aboutMe/
   - title: "Github"
     url: /
+
+
+# left side bar
+docs:
+  - title: Progress
+    url: /progress/
+    children: 
+    - title: "Community Bonding - Week 1"
+      url: /
+
+  - title: About
+    children:
+    - title: About the project
+      url: /about/
+    - title: About Me
+      url: /aboutMe/

@@ -19,15 +19,16 @@
 # in the templates via {{ site.myvariable }}.
 
 title: GSoC 2022 - Improvement of Web Templates
-email: apoorvgarg.ms@gmail.com
+email: apoorvgarg.21@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/gsoc2022-Apoorv_Garg" # the subpath of your site, e.g. /blog
+url: https://theroboticsclub.github.io # the base hostname & protocol for your site, e.g. http://example.com
+repository: "TheRoboticsClub/gsoc2022-Apoorv_Garg"
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  Apoorvgarg-creator
 
 # Build settings
 theme: minimal-mistakes-jekyll
@@ -39,6 +40,20 @@ plugins:
 
 logo: "/assets/images/logo.png"
 
+include:
+  - _pages
+# Site Footer
+footer:
+  links:
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.linkedin.com/in/apoorv-garg-371838143/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: /
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Apoorvgarg-creator"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -58,12 +73,38 @@ logo: "/assets/images/logo.png"
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+############################ EDIT THIS SECTION ###############################
+# PROFILE
+# Site Author
+author:
+  name             : "Apoorv Garg"
+  avatar           : "/assets/images/profile_Apoorv.jpeg"
+  bio              : "Final year student at Netaji Subhas University of technology and Google Summer of Code 2022 student at JdeRobot"
+  location         : "India"
+  email            :  "apoorvgarg.21@gmail.com"
+  links:
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "nikhil.paliwal14@gmail.com"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.linkedin.com/in/apoorv-garg-371838143/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: /
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Apoorvgarg-creator"
 
-# defaults:
-#   # _posts
-#   - scope:
-#       path: ""
-#       type: posts
-#     value:
-#       breadcrumbs: true
-#       read_time: true
+
+#################################################################################
+
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      author_profile: true
+      breadcrumbs: true
+      read_time: true
