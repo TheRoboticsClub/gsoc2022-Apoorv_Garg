@@ -6,7 +6,7 @@ main:
   - title: "About Me"
     url: /aboutMe/
   - title: "Github"
-    url: /
+    url: https://github.com/TheRoboticsClub/gsoc2022-Apoorv_Garg
 
 
 # left side bar
