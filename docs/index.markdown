@@ -11,7 +11,7 @@ excerpt:
 feature_row:
   - image_path: /assets/images/about_project.jpeg
     alt: "About"
-    title: "About"
+    title: "About the project"
     excerpt: "More information about the project. References used, guides, articles, etc."
     url: "/about/"
     btn_class: "btn--primary"
@@ -27,8 +27,8 @@ feature_row:
 
   - image_path: /assets/images/about.jpg
     alt: "About Me"
-    title: "About Me"
-    excerpt: "More information about the project. References used, guides, articles, etc."
+    title: "About me"
+    excerpt: "To know more about my previous experiences and projects "
     url: "/aboutMe/"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
@@ -39,7 +39,7 @@ feature_row:
 
 Hello!
 
-I am Apoorv Garg, final year student in Netaji Subhas University of technology, New Delhi, India. This project showcases my contribution for GSoC 2022. The GSoC Project aim to improve and migrate the currently built web templates using advanced front end technologies (REACT). In the following [set of blogs](https://theroboticsclub.github.io/gsoc2022-Apoorv_Garg/Progress/) is explained the progress through the program.
+I am Apoorv Garg, final year student in Netaji Subhas University of technology, New Delhi, India. This project showcases my contribution for GSoC 2022. The GSoC Project aim to improve and migrate the currently built web templates using advanced front end technologies (REACT). In the following [set of blogs]({{site.url}}/gsoc2022-Apoorv_Garg/progress/) is explained the progress through the program.
 
 Mentors:
 

@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/gsoc2022-Apoorv_Garg" # the subpath of your site, e.g. /blog
 url: https://theroboticsclub.github.io # the base hostname & protocol for your site, e.g. http://example.com
 repository: "TheRoboticsClub/gsoc2022-Apoorv_Garg"
-twitter_username: jekyllrb
+twitter_username: APOORVG05548471
 github_username:  Apoorvgarg-creator
 
 # Build settings
@@ -50,7 +50,7 @@ footer:
       url: "https://www.linkedin.com/in/apoorv-garg-371838143/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: /
+      url: https://twitter.com/APOORVG05548471
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Apoorvgarg-creator"
@@ -91,7 +91,7 @@ author:
       url: "https://www.linkedin.com/in/apoorv-garg-371838143/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: /
+      url: https://twitter.com/APOORVG05548471
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Apoorvgarg-creator"

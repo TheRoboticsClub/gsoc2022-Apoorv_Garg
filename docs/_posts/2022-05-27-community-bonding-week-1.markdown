@@ -8,7 +8,7 @@ sidebar:
 ---
 I'm looking forward to working on the Improvement of Web templates using React project with the JdeRobot community! The Google Summer of Code programme begins with a period of getting to know the community and exploring the project to have a better grasp.
 
-### Tasks
+### Goals
 
 - [x]  Setup a Blogging website to write about the progress of GSoC project
 
@@ -19,7 +19,7 @@ This [repository](https://github.com/TheRoboticsClub/gsoc2022-Apoorv_Garg) will 
 
 ### Accomplishment and Challenges 
 
-* Blog Website \[Task 1\]
+* #### Blog Website \[Task 1\]
 
 Website is written using Jekyll based on the *minimal-mistakes* template. [Jekyll](https://jekyllrb.com) is a static site generator written in ruby. To get started with jekyll, I first had to install ruby, which can get a little problematic if you don't follow the instruction carefully. I first installed ruby without openssl, because of which I wasn't able to install jekyll. I had to go through several articles and discussion to solve the problem. 
 
@@ -27,7 +27,7 @@ After completing the Installation, learning and developing blog website with jek
 
 
 
-* Robot Academy Architecture \[Task 2\]
+* #### Robot Academy Architecture \[Task 2\]
 
 To understand the architecture, I read the [ClientSide.md](https://github.com/JdeRobot/RoboticsAcademy/blob/master/docs/clientside.md) present in the [RoboticsAcademy](https://github.com/JdeRobot/RoboticsAcademy/).
 
@@ -43,5 +43,4 @@ Two Websockets that are used to communicate between exercise.py and browser are 
 
 
 2. GUI websocket (Port 2303) - Since exercise.py lacks a graphical interface, this websocket is typically used to communicate data from the backend to the frontend. Gui websocket transmits images to the browser to be shown (for example, a robot camera), and html widgets display them. This websocket has more diversity because it fluctuates according to the requirements of each exercise. 
-
 
