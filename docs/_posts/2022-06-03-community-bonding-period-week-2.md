@@ -6,7 +6,7 @@ categories: jekyll update
 sidebar:
   nav: "docs"
 ---
-Today I had my first videoconference with my mentors, during which they welcomed me to the community, outlined the plans for weekly meetings, and provided me with additional information on the project.
+I had my first videoconference with my mentors, during which they welcomed me to the community, outlined the plans for weekly meetings, and provided me with additional information on the project.
 
 
 
@@ -24,5 +24,5 @@ Today I had my first videoconference with my mentors, during which they welcomed
 
 
 
-* #### Explore exercises on Robot Academy \[Task 2\]
+* #### Explore Robot Academy exercises \[Task 2\]
 
