@@ -2,7 +2,6 @@
 title: Progress
 layout: posts
 permalink: /progress/
-
 collection: posts
 
 classes: wide
