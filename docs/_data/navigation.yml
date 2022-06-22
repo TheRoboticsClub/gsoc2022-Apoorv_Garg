@@ -20,10 +20,10 @@ docs:
       url: /CBW2
     - title: "Community Bonding - Week 3"
       url: /CBW3
-    # - title: "Coding Period - Week 1"
-    #   url: /CPW1
-    # - title: "Coding Period - Week 2"
-    #   url: /CPW2
+    - title: "Coding Period - Week 1"
+      url: /CPW1
+    - title: "Coding Period - Week 2"
+      url: /CPW2
     # - title: "Coding Period - Week 3"
     #   url: /CPW3  
 
