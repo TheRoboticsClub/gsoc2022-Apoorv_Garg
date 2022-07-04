@@ -1,4 +1,4 @@
 [submodule "RoboticsAcademy"] 
   path = RoboticsAcademy 
-  url = https://github.com/Apoorvgarg-creator/RoboticsAcademy
-  branch = follow-line-react
+  url = https://github.com/Apoorvgarg-creator/RoboticsAcademy.git
+	branch = follow-line-react
