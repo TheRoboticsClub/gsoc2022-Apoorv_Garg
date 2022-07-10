@@ -25,7 +25,9 @@ docs:
     - title: "Coding Period - Week 2"
       url: /CPW2
     - title: "Coding Period - Week 3"
-      url: /CPW3  
+      url: /CPW3
+    - title: "Coding Period - Week 4"
+      url: /CPW4
 
   - title: About
     children:

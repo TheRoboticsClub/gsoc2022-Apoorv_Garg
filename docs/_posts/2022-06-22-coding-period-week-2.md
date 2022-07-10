@@ -3,6 +3,8 @@ layout: single
 permalink : /CPW2/
 title:  "Coding Period - Week 2"
 categories: jekyll update
+toc: true
+toc_label: Table of Content
 sidebar:
   nav: "docs"
 ---

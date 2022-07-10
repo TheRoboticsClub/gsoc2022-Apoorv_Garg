@@ -3,6 +3,8 @@ layout: single
 permalink : /CBW2/
 title:  "Community Bonding - Week 2"
 categories: jekyll update
+toc_label: Table of Content
+toc: true
 sidebar:
   nav: "docs"
   
