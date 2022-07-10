@@ -11,17 +11,20 @@ In the weekly meet, I showed the mentors the so far developed exercise base and 
 
 ### Goals
 
-- [ ] Create Bird eye view Widget for the follow line
+- [x] Create Bird eye view Widget for the follow line
 
-- [ ] Load the Code from Ace editor into the robot
+- [x] Circuit selector
 
-- [ ] Setup the Gazebo viewer
+- [x] Setup the Gazebo viewer
 
-- [ ] Setup the Console viewer
+- [x] Setup the Console viewer
 
 ### Accomplishment and Challenges 
 
 
-* #### Migrate the follow line exercise \[Task 1\]
+* #### Create Bird eye view Widget for the follow line exercise \[Task 1\]
+
+There is a viusalization section in the follow line exercise which have a bird-eye view for the circuit. This component is a canvas where we load the background image as different circuit whose value depends upon the circuit selector component. Now, the purpose of canvas was not just to load the circuit image but to render a robot and when someone loads the code into the 
+ To migrate this componenet from vanilla javscript to React, two challenges that I faced was 
 
 
