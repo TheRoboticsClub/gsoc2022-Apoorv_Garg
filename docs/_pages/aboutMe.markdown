@@ -41,15 +41,25 @@ Face recognition is a method of identifying or verifying the identity of an indi
 
 
 ### Other Experiences
+
 #### Android Developer at Resilient AI Ltd, Gurugram, India  
 * Produced stunning visual elements of application by translating UI/UX design wireframes into code while producing high quality, reusable markup using Flutter
 * Designed dynamic and responsive pages
 * Integrated Backend Api into the App using swagger
 	
+
+#### Software Developer Intern - Deloitte, Hyderabad, India
+* Use Azure Form recognizer to extracts information from documents and auto-populate the desired fields.
+* Setup CI/CD Pipeline so that each commit a developer makes will go through standard process of software lifecycle and get tested well enough before it can make it to the production
+* Oversee back-end development using ASP.NET to maintain website integrity, security and efficiency.
+* Utilize such technologies like ASP.NET, MVC, React, Azure Cognitive services and MongoDB to develop new applications
+
+
 #### GUI Developer at Team Kalpana Society
 * Working in a team of 10 to design and develop a payload that can fit in a size of a can.
 * Design the software development life cycle, developed a fully functional GUI to communicate with the payload in real-time.
 * Software and skills used - LabView and Python
+
 
 #### Debrisat Project Intern - Space Development Nexus, New Delhi, India
 Working in a team of 6 to design and develop the Attitude and control System of a nanosatellite.
