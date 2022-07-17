@@ -16,7 +16,7 @@ All the components for follow_line exercise were migrated to react based code. N
 
 - [x] Ace Editor component error resolved
 
-- [ ] Scripts to be migrated to React 
+- [x] Scripts to be migrated to React 
 
 ### Accomplishment and Challenges 
 
@@ -65,16 +65,20 @@ import '/static/common/ace-builds/src-noconflict/snippets/python';
 
 * #### Migrate scripts present in exercise_base.html \[Task 6\]
 
+1. onPageload function
+2. beforeUnLoad function
+3. handling different event listeners
 
 
 ### Pull Request and Issues
-
-* #### Pull Requests
-
-1. [https://github.com/JdeRobot/RoboticsAcademy/pull/1771](https://github.com/JdeRobot/RoboticsAcademy/pull/1771)
 
 * #### Issues
 
 1. [https://github.com/JdeRobot/RoboticsAcademy/issues/1770](https://github.com/JdeRobot/RoboticsAcademy/issues/1770)
 
 2. [https://github.com/JdeRobot/RoboticsAcademy/issues/1671](https://github.com/JdeRobot/RoboticsAcademy/issues/1671)
+
+* #### Pull Requests
+
+1. [https://github.com/JdeRobot/RoboticsAcademy/pull/1771](https://github.com/JdeRobot/RoboticsAcademy/pull/1771)
+

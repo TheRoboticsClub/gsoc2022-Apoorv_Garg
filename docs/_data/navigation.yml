@@ -5,6 +5,8 @@ main:
     url: /progress
   - title: "About Me"
     url: /aboutMe/
+  - title: "Video Logs"
+    url: /vlogs/
   - title: "Github"
     url: https://github.com/TheRoboticsClub/gsoc2022-Apoorv_Garg
 
@@ -35,3 +37,8 @@ docs:
       url: /about/
     - title: About Me
       url: /aboutMe/
+
+  - title: Video Logs
+    children:
+    - title: Youtube
+      url: /vlogs/
