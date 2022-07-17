@@ -46,3 +46,6 @@ $ yarn add @mui/material @emotion/react @emotion/styled
 ```
 
 
+### Youtube Video 
+
+* [Week-1 GsoC Progress](https://youtu.be/7EwxjsPSLvU)
