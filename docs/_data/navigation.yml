@@ -30,6 +30,10 @@ docs:
       url: /CPW3
     - title: "Coding Period - Week 4"
       url: /CPW4
+    - title: "Coding Period - Week 5"
+      url: /CPW5
+    - title: "Coding Period - Week 6"
+      url: /CPW6
 
   - title: About
     children:

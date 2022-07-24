@@ -31,10 +31,11 @@ Now to start the refractoring of the next most interesting exercise "3d-reconstr
 
 | Three.js | worldview | 
 |-------|--------|
-| Three.js is a 3D library that tries to make it as easy as possible to get 3d content on a webpage| Worldview is a library to render 3D objects in a scene, manage the camera, and add mouse interactions|
+| Three.js is a 3D library that tries to make it as easy as possible to get 3d content on a webpage| Worldview is a library to render 3D objects in a scene, manage the camera, and add mouse interactions |
 | Three.js handles scenes, light, shadows, materials, textures, 3d math and all other great things that is achievable with 3d objects| Worldview is restrcited to limited features |
-| Three.js has a bigger Open source community| Worldview has comparatively smaller community |
+| Three.js has a bigger Open source community | Worldview has comparatively smaller community |
 | Tutorials on three.js are easily available | Worldview tutorials aren't that easily available |
+
 * #### Documentation guiding developers on "How to create react based exercise from Scratch" \[Task 3\]
 
 With the first exercise refractor completion, There was react base template code available for the exercise developer to begin creating exercises from scratch, but just going deep into 20,000 line of code won't help exercise developer help build a exercise quickly and efficiently. Documentation was required to ensure easy integration and effectiveness of the process.
