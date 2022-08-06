@@ -15,7 +15,7 @@ main:
 docs:
   - title: Progress
     url: /progress/
-    children: 
+    children:
     - title: "Community Bonding - Week 1"
       url: /CBW1
     - title: "Community Bonding - Week 2"
@@ -34,6 +34,10 @@ docs:
       url: /CPW5
     - title: "Coding Period - Week 6"
       url: /CPW6
+    - title: "Coding Period - Week 7"
+      url: /CPW7
+    - title: "Mid term Evaluation"
+      url: /midEval
 
   - title: About
     children:

@@ -54,6 +54,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Apoorvgarg-creator"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCFRDPTzUxUq2hUCoPE3LXpQ"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -85,13 +88,13 @@ author:
   links:
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
-    #   url: "nikhil.paliwal14@gmail.com"
+    #   url: "apoorvgarg.21@gmail.com"
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/apoorv-garg-371838143/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/APOORVG05548471
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: https://www.youtube.com/channel/UCFRDPTzUxUq2hUCoPE3LXpQ
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Apoorvgarg-creator"

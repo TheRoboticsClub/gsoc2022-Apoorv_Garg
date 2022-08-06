@@ -42,7 +42,7 @@ Face recognition is a method of identifying or verifying the identity of an indi
 
 ### Other Experiences
 
-#### Android Developer at Resilient AI Ltd, Gurugram, India  
+#### Android Developer at Finsara, Gurugram, India  
 * Produced stunning visual elements of application by translating UI/UX design wireframes into code while producing high quality, reusable markup using Flutter
 * Designed dynamic and responsive pages
 * Integrated Backend Api into the App using swagger

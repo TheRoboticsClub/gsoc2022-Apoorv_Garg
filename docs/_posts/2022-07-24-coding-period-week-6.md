@@ -12,9 +12,9 @@ It was the time to show the demo to the mentors, when I started with the demo, T
 
 ### Goals
 
-- [ ] Calculate the initial position of the Robot dynamically 
+- [x] Calculate the initial position of the Robot dynamically 
 
-- [ ] Connection with the manager was not persistent due to initialization inside Context
+- [x] Connection with the manager was not persistent due to initialization inside Context
  
 
 ### Accomplishment and Challenges 
@@ -22,7 +22,9 @@ It was the time to show the demo to the mentors, when I started with the demo, T
 * #### Robot position initialization  \[Task 1\]
 
 The red circle that is drawn on the bird view widget was not coming to its correct position, it needed to be align with respect to the size of widget.
+To solve the problem, we will use the phaser library to make the bird eye view more powerful.
 
 * #### Persistent connection with the manager \[Task 2\]
 
 Major problem that I am facing was to keep a persistent connection with the manager. The reason of the failure was improper definition of the websocket, I defined the websocket inside the Context, so whenever the context was getting re-render, a new socket connection was made *for 2.7k times*. So I had to come up with a different approach to define the websocket that I don't lose the data and also doesn't make a connection again and again.
+To solve the problem of persistent connection, I had to define the variable globally.

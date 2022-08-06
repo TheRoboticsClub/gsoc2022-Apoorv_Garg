@@ -12,7 +12,7 @@ With the First exercise migrated to React based code, we discussed the next step
 
 ### Goals
 
-- [ ] Integrate the React based code with the new solution 
+- [x] Integrate the React based code with the new solution 
 
 - [x] Discover new 3d-widgets to build 3d reconstruction exercise 
 
@@ -24,6 +24,7 @@ With the First exercise migrated to React based code, we discussed the next step
 * #### Integrate the React based code \[Task 1\]
 
 Follow line exercise code being refractored in react was not the only main requirement of the project, But for the exercise developers to carry the legacy in the different exercises in react and avoid any sort of hardship in reusing the react based widgets that are common for the exercises.
+To reuse the widgets, exercise developers needs to make a template html and then add tags and resue the component by adding it in similar fashion as using normal django custom template tags. 
 
 * #### Discover new 3d-widgets to build 3d reconstruction exercise \[Task 2\]
 
