@@ -10,7 +10,7 @@ Mid term Evaluation, an interesting phase that comes up in the gsoc period, I wa
 
 ### Goals
 
-- [ ] Slicing problem of the ace editor code in "brain.py" 
+- [x] Slicing problem of the ace editor code in "brain.py" 
 
 - [x] Frequency Menu Widget 
  
@@ -21,6 +21,16 @@ Mid term Evaluation, an interesting phase that comes up in the gsoc period, I wa
 
 Now with all the widgets and functionalities complete, I was testing the exercise to make sure everything is complete and ready to deploy for the general users. When I tried loading the code into the robot, the code sent to the manager first and gets evaluated via Pylint and after passing the test it goes to the exercise.py via websocket_code from where the code is sent to the Brain.py , where we are getting the issue !.
 
+To solve the problem, I had to create a ref of AceEditor inside the Exercise context and then use the same ref to access the code.
+
 * #### Frequency Menu \[Task 2\]
 
 This Menu displays the actual brain frequency, gui frequency and simulation real time factor coming from the backend.
+
+### Achievements
+
+🎉🎊🙌🏻 Follow Line Exercise Completely migrated and working perfectly. 🎉🎊🙌🏻 
+
+Link - [Follow Line React](https://youtu.be/YMMQVo_3oh8)
+
+---
