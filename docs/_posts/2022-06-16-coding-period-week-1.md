@@ -50,4 +50,4 @@ $ yarn add @mui/material @emotion/react @emotion/styled
 
 * [Week-1 GsoC Progress](https://youtu.be/7EwxjsPSLvU)
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/7EwxjsPSLvU" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/7EwxjsPSLvU" frameborder="0" allowfullscreen></iframe>

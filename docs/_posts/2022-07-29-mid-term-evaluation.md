@@ -33,6 +33,6 @@ This Menu displays the actual brain frequency, gui frequency and simulation real
 
 * Exercise - [Follow Line React](https://youtu.be/YMMQVo_3oh8)
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/YMMQVo_3oh8" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/YMMQVo_3oh8" frameborder="0" allowfullscreen></iframe>
 
 ---
