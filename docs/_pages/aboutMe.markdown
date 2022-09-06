@@ -20,7 +20,7 @@ PR Summary -
 
 * Correction of the order of overflowing tokens for all truncation strategy for a sequence of input ids.
 * For a pair of sequences of input ids (or batch of pairs), an error should be raised for the truncation_strategy if set true or longest_first. (Discussed in the Pull Request)
-* Replaced the deprecated methods
+* Replaced the depreciated methods
 * Added unit test (pytest) on Circle CI
 
 

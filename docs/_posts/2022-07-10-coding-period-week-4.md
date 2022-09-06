@@ -12,7 +12,7 @@ All the components for follow_line exercise were migrated to react based code. N
 
 ### Goals
 
-- [x] Remove deprecated and old Vanilla Javascript Files
+- [x] Remove depreciated and old Vanilla Javascript Files
 
 - [x] Ace Editor component error resolved
 
@@ -20,9 +20,9 @@ All the components for follow_line exercise were migrated to react based code. N
 
 ### Accomplishment and Challenges 
 
-* #### Remove deprecated and old files \[Task 1\]
+* #### Remove depreciated and old files \[Task 1\]
 
-When I first started migrating the exercise's functionalities from Vanilla Javascript to React based, I migrated the Javascript files present in the file path \( from repository root \) "exercises/static/exercises/exercise-id/web-template/assets" which were old and deprecated JS files which I realised when I tried testing the code and got problem in the variable "radiConect". I discussed the problem in the weekly meet and also posted my query on the community slack channel. When I discovered what the problem was, I raised an [issue](https://github.com/JdeRobot/RoboticsAcademy/issues/1770) in Github platform and also created a [Pull Request](https://github.com/JdeRobot/RoboticsAcademy/pull/1771) to solve the same.
+When I first started migrating the exercise's functionalities from Vanilla Javascript to React based, I migrated the Javascript files present in the file path \( from repository root \) "exercises/static/exercises/exercise-id/web-template/assets" which were old and depreciated JS files which I realised when I tried testing the code and got problem in the variable "radiConect". I discussed the problem in the weekly meet and also posted my query on the community slack channel. When I discovered what the problem was, I raised an [issue](https://github.com/JdeRobot/RoboticsAcademy/issues/1770) in Github platform and also created a [Pull Request](https://github.com/JdeRobot/RoboticsAcademy/pull/1771) to solve the same.
 
 * #### Add Ace-build scripts file \[Task 2\]
 
