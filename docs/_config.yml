@@ -38,6 +38,8 @@ plugins:
   - jekyll-include-cache
 
 
+minimal_mistakes_skin: "air" # "mint"
+
 logo: "/assets/images/logo.png"
 
 include:

@@ -5,7 +5,7 @@
 layout: home
 permalink: /
 header:
-    overlay_color: "#5e616c"
+    overlay_color: "#5291C7"
 excerpt:
     Improving the web templates using React
 feature_row:
@@ -39,7 +39,7 @@ feature_row:
 
 Hello!
 
-I am Apoorv Garg, final year student in Netaji Subhas University of technology, New Delhi, India. This project showcases my contribution for GSoC 2022. The GSoC Project aim to improve and migrate the currently built web templates using advanced front end technologies (REACT). In the following [set of blogs]({{site.url}}/gsoc2022-Apoorv_Garg/progress/) is explained the progress through the program.
+I am Apoorv Garg, final year student in Netaji Subhas University of technology, New Delhi, India. This project showcases my contribution for GSoC 2022. The GSoC Project aims to improve and migrate existing web templates by utilising advanced front end technology (REACT). The journey from the initial idea to the final product is illustrated in the [progress report]({{site.url}}/gsoc2022-Apoorv_Garg/progress/). It has been a great experience to work on this project and I hope to continue to contribute to the development of the web templates.
 
 Mentors:
 

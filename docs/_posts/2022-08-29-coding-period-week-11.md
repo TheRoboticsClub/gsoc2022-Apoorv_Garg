@@ -8,7 +8,7 @@ toc_label: Table of Content
 sidebar:
   nav: "docs"
 ---
-This week, I decided to try another exercise with the most distinct pattern from the previous one. I found the anamoly using the exercise detials list. I discovered a distinct pattern in the **DL Digit classifier** exercise. As a result, I decided to proceed with the DL digit classifier exercise.
+This week, I decided to try another exercise with the most distinct pattern from the previous one. I found the anomaly using the exercise detials list. I discovered a distinct pattern in the **DL Digit classifier** exercise. As a result, I decided to proceed with the DL digit classifier exercise.
 
 ### Goals
 
@@ -25,7 +25,7 @@ This week, I decided to try another exercise with the most distinct pattern from
 
 Components that are different in this exercise are -
 
-1. Exercise control widget - The observed difference is that the exercise control widget is not common for every exercise. It is a separate widget that is used to control the exercise. Though Every exercise utilize this widget, the way it is used is different in every exercise. So, I had to make a separate widget for each exercise. This is a good thing as it will help in making the exercise more modular and reusable. For the case of DL Digit classifier exercise, I had to make a separate widget for the exercise control as it required only the PlayStop button and the Reset button. The other buttons like Load file, Save file, view Sim button and load into robot button are not required for this exercise. So, I had to make a separate widget for this exercise.
+1. Exercise control widget - The noticeable difference is that the exercise control widget is not shared by all exercises. Though the widget is used in all exercises, the way it is used varies by exercise. As a result, I had to create a separate widget for each exercise. This is a good thing because it makes the exercise more modular and reusable. In the case of the DL Digit classifier exercise, I had to create a separate widget for the exercise control because it only required the PlayStop and Reset buttons. Other buttons, such as Load file, Save file, View Sim, and Load into robot, are not required for this exercise.
 
 2. File Selector - A file selector is a widget that allows you to choose a file from your local system. The Onnx format model for the exercise is loaded using this widget. To make the widget more modular and reusable, the context, file ref, file type, file extension, file name, and callback function are passed to it. The callback function is used to send the file that was selected to the parent component.
 3. Gazebo - There is no gazebo required for this exercise hence the Gazebo widget is not required for this exercise.
