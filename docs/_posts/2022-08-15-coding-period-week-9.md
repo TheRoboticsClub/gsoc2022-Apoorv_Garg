@@ -33,13 +33,13 @@ Since rescue people exercise was completely migrated, It took only a few minutes
 
 * #### Issues
 
-- [ \[ RescuePeople \] Migrate Rescue-People exercise to use a REACT based frontend ](https://github.com/JdeRobot/RoboticsAcademy/issues/1811)
+  - [ \[ RescuePeople \] Migrate Rescue-People exercise to use a REACT based frontend ](https://github.com/JdeRobot/RoboticsAcademy/issues/1811)
 
-- [ \[PowerTowerInspection \] Migrate Power-Tower-Inspection exercise to use a REACT based frontend](https://github.com/JdeRobot/RoboticsAcademy/issues/1813)
+  - [ \[PowerTowerInspection \] Migrate Power-Tower-Inspection exercise to use a REACT based frontend](https://github.com/JdeRobot/RoboticsAcademy/issues/1813)
 
 * #### Pull Request
 
-- [ \[Exercise \] React Based Exercise ](https://github.com/JdeRobot/RoboticsAcademy/pull/1805)
+  - [ \[Exercise \] React Based Exercise ](https://github.com/JdeRobot/RoboticsAcademy/pull/1805)
 
 ### Achievements
 

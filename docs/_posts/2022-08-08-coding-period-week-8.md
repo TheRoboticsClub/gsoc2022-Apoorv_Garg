@@ -39,13 +39,13 @@ With the help of the Exercise details list, Follow line exercise matched with th
 
 * #### Issues
 
-- [ \[ VacuumCleaner \] Migrate Vacuum-cleaner exercise to use a REACT based frontend ](https://github.com/JdeRobot/RoboticsAcademy/issues/1809)
+  - [ \[ VacuumCleaner \] Migrate Vacuum-cleaner exercise to use a REACT based frontend ](https://github.com/JdeRobot/RoboticsAcademy/issues/1809)
 
-- [ \[ 3DReconstruction \] Documentation on react widgets](https://github.com/JdeRobot/RoboticsAcademy/issues/1810)
+  - [ \[ 3DReconstruction \] Documentation on react widgets](https://github.com/JdeRobot/RoboticsAcademy/issues/1810)
 
 * #### Pull Request
 
-- [ \[Exercise \] React Based Exercise ](https://github.com/JdeRobot/RoboticsAcademy/pull/1805)
+  - [ \[Exercise \] React Based Exercise ](https://github.com/JdeRobot/RoboticsAcademy/pull/1805)
 
 ### Achievements
 

@@ -71,11 +71,11 @@ So all different views were stored in the views folder
 
 * #### Issues
 
-- [ \[ DlDigitClassifier \] Migrate Digit-classifier exercise to use a REACT based frontend ](https://github.com/JdeRobot/RoboticsAcademy/issues/1812)
+  - [ \[ DlDigitClassifier \] Migrate Digit-classifier exercise to use a REACT based frontend ](https://github.com/JdeRobot/RoboticsAcademy/issues/1812)
 
 * #### Pull Request
 
-- [ \[Exercise \] React Based Exercise ](https://github.com/JdeRobot/RoboticsAcademy/pull/1805)
+  - [ \[Exercise \] React Based Exercise ](https://github.com/JdeRobot/RoboticsAcademy/pull/1805)
 
 ### Achievements
 

@@ -39,10 +39,10 @@ Vanilla Javascript and react exercises are featured on the homepage. To differen
 
 * #### Issues
 
-- [ \[ React Widgets \] Documentation on react widgets](https://github.com/JdeRobot/RoboticsAcademy/issues/1806)
+  - [ \[ React Widgets \] Documentation on react widgets](https://github.com/JdeRobot/RoboticsAcademy/issues/1806)
 
 * #### Pull Request
 
-- [ \[Exercise \] React Based Exercise ](https://github.com/JdeRobot/RoboticsAcademy/pull/1805)
+  - [ \[Exercise \] React Based Exercise ](https://github.com/JdeRobot/RoboticsAcademy/pull/1805)
 
 ### Youtube Video Link

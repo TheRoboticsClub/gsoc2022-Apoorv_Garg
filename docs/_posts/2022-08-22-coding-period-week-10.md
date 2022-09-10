@@ -37,13 +37,13 @@ The Obstacle Avoidance exercise was the second exercise I migrated. The exercise
 
 * #### Issues
 
-- [\[ ObstacleAvoidance \] Migrate Obstacle-Avoidance exercise to use a REACT based frontend ](https://github.com/JdeRobot/RoboticsAcademy/issues/1807)
+  - [\[ ObstacleAvoidance \] Migrate Obstacle-Avoidance exercise to use a REACT based frontend ](https://github.com/JdeRobot/RoboticsAcademy/issues/1807)
 
-- [ \[ GlobalNavigation \] Migrate Global-Navigation exercise to use a REACT based frontend](https://github.com/JdeRobot/RoboticsAcademy/issues/1808)
+  - [ \[ GlobalNavigation \] Migrate Global-Navigation exercise to use a REACT based frontend](https://github.com/JdeRobot/RoboticsAcademy/issues/1808)
 
 * #### Pull Request
 
-- [ \[Exercise \] React Based Exercise ](https://github.com/JdeRobot/RoboticsAcademy/pull/1805)
+  - [ \[Exercise \] React Based Exercise ](https://github.com/JdeRobot/RoboticsAcademy/pull/1805)
 
 ### Achievements
 

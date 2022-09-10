@@ -49,8 +49,12 @@ So, In order to maintain and migrate the exercises into Advanced frontend techno
 **Sheet Link - [Exercises Sheet](https://docs.google.com/spreadsheets/d/1ZpZhbbFHv96CvQ57HjU6g9WmFd-_1QKq_EAjZLRB6eY/edit?usp=sharing)**
 
 
-### Issues 
+### Issues and Pull Requests 
 
-1. [#1801](https://github.com/JdeRobot/RoboticsAcademy/issues/1801)
+* #### Issues 
 
-### Pull Requests
+  - [#1801](https://github.com/JdeRobot/RoboticsAcademy/issues/1801)
+
+* #### Pull Requests
+
+  - [ \[ Academy \] Exercise details markdown ](https://github.com/JdeRobot/RoboticsAcademy/pull/1793)
