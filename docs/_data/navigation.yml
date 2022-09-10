@@ -60,3 +60,9 @@ docs:
     children:
     - title: Youtube
       url: /vlogs/
+  - title: Issues & PR
+    children:
+    - title: Issues
+      url: /issue/
+    - title: Pull Request
+      url: /pr 

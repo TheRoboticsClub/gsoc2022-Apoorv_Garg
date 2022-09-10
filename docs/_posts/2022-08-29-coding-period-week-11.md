@@ -67,11 +67,20 @@ So all different views were stored in the views folder
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/file_structure.png" alt="" class="full">
 
+### Issues and Pull Requests
+
+* #### Issues
+
+- [ \[ DlDigitClassifier \] Migrate Digit-classifier exercise to use a REACT based frontend ](https://github.com/JdeRobot/RoboticsAcademy/issues/1812)
+
+* #### Pull Request
+
+- [ \[Exercise \] React Based Exercise ](https://github.com/JdeRobot/RoboticsAcademy/pull/1805)
 
 ### Achievements
 
 🎉🎊🙌🏻 DL Digit classifier Exercise Completely migrated and working perfectly. 🎉🎊🙌🏻 
 
-<!-- * Exercise - [Follow Line React](https://youtu.be/YMMQVo_3oh8)
+<!-- * Exercise - [Digit Classifier React](https://youtu.be/YMMQVo_3oh8)
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/YMMQVo_3oh8" frameborder="0" allowfullscreen></iframe> -->

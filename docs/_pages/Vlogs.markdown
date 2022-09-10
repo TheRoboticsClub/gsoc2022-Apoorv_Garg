@@ -38,7 +38,7 @@ Exercise | Video
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/YMMQVo_3oh8" frameborder="0" allowfullscreen></iframe>
 
-* [Exercise 2 \| 3D reconstruction ](https://youtu.be/")
+<!-- * [Exercise 2 \| 3D reconstruction ](https://youtu.be/")
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen></iframe>
 
@@ -64,7 +64,7 @@ Exercise | Video
 
 * [Exercise 8 \| Dl digit classifier ](https://youtu.be/")
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen></iframe> -->
 
 
 
