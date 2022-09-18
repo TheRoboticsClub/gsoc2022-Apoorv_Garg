@@ -18,3 +18,5 @@ During this time, I began learning the rules and collected information about how
 
 ### Coding Period 🗓
 
+During this time, I successfully migrated 8 exercises. I worked on the documentation, made videos and discoverd new libraries. I had a lot of problems when I started migrating the first exercise, but I got it completely migrated before midterm evaluation. After that, the migration process became simple, but for the second exercise, I needed to make changes to the widgets from the first exercise in order to consume a single widget for each exercise. Hence developed new methods. I got a concrete method of migration after my third exercise. After that exercise migration became easy, Taking an hour just to migrate an exercise. There was this exercise "Power tower inspection" that only took a few minutes to migrate into react. I created documentation on "How to create exercise in react from scratch", "Widgets documentation" and "exercise details documentation".
+ 
