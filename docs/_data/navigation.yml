@@ -48,6 +48,8 @@ docs:
       url: /CPW12                  
     - title: "Mid term Evaluation"
       url: /midEval
+    - title: "Final term Evaluation"
+      url: /fte  
 
   - title: About
     children:
@@ -55,6 +57,8 @@ docs:
       url: /about/
     - title: About Me
       url: /aboutMe/
+    - title: Summary
+      url: /summary/    
 
   - title: Video Logs
     children:
